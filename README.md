@@ -1,0 +1,2 @@
+# cau-ArtificialIntelligence
+course
